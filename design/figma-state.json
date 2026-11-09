@@ -1,0 +1,147 @@
+{
+  "fileKey": "b3e4TxKb6ZC6HfSOgpK7D2",
+  "sessionId": "ac3b980d-c18a-4066-87a3-3574cfe0c86d",
+  "createdNodeIds": [
+    "3:110",
+    "3:123",
+    "3:111",
+    "3:124",
+    "3:112",
+    "3:125",
+    "3:113",
+    "3:126",
+    "3:114",
+    "3:127",
+    "3:115",
+    "3:128",
+    "3:116",
+    "3:129",
+    "3:117",
+    "3:130",
+    "3:118",
+    "3:131",
+    "3:119",
+    "3:132",
+    "3:120",
+    "3:133",
+    "3:121",
+    "3:134",
+    "3:122"
+  ],
+  "pageId": "0:1",
+  "theme": {
+    "id": "VariableCollectionId:3:65",
+    "modes": {
+      "Light": "3:6"
+    }
+  },
+  "darkVariables": {
+    "bg": "VariableID:3:79",
+    "surface": "VariableID:3:81",
+    "text": "VariableID:3:83",
+    "muted": "VariableID:3:85",
+    "line": "VariableID:3:87",
+    "accent": "VariableID:3:89",
+    "onAction": "VariableID:3:91",
+    "black": "VariableID:3:93",
+    "white": "VariableID:3:95",
+    "s0": "VariableID:3:96",
+    "s4": "VariableID:3:97",
+    "s8": "VariableID:3:98",
+    "s12": "VariableID:3:99",
+    "s16": "VariableID:3:100",
+    "s24": "VariableID:3:101",
+    "s32": "VariableID:3:102",
+    "s40": "VariableID:3:103"
+  },
+  "variables": {
+    "bg": "VariableID:3:78",
+    "surface": "VariableID:3:80",
+    "text": "VariableID:3:82",
+    "muted": "VariableID:3:84",
+    "line": "VariableID:3:86",
+    "accent": "VariableID:3:88",
+    "onAction": "VariableID:3:90",
+    "black": "VariableID:3:92",
+    "white": "VariableID:3:94",
+    "s0": "VariableID:3:96",
+    "s4": "VariableID:3:97",
+    "s8": "VariableID:3:98",
+    "s12": "VariableID:3:99",
+    "s16": "VariableID:3:100",
+    "s24": "VariableID:3:101",
+    "s32": "VariableID:3:102",
+    "s40": "VariableID:3:103"
+  },
+  "styles": {
+    "display": "S:8f55b4de140b12516d20f6a4e68c8cccecfefea5,",
+    "title": "S:74fc389c66d87db12a523dbbc45aaac4657cfbe1,",
+    "section": "S:7cf47a21a92ad9668c138d35b2f4fdc6240c4a00,",
+    "body": "S:da9b22105439bb797cb21f4b085d0602e2b56cd5,",
+    "strong": "S:e064f41dff52ce350379df3ac01c68ca57a8df9c,",
+    "caption": "S:b89e342dbf265d74ef61486c7ef54fc12d1dea07,"
+  },
+  "buttons": [
+    {
+      "id": "3:110",
+      "name": "Theme=Light, Style=Primary, State=Default"
+    },
+    {
+      "id": "3:111",
+      "name": "Theme=Light, Style=Primary, State=Hover"
+    },
+    {
+      "id": "3:112",
+      "name": "Theme=Light, Style=Primary, State=Disabled"
+    },
+    {
+      "id": "3:113",
+      "name": "Theme=Light, Style=Secondary, State=Default"
+    },
+    {
+      "id": "3:114",
+      "name": "Theme=Light, Style=Secondary, State=Hover"
+    },
+    {
+      "id": "3:115",
+      "name": "Theme=Light, Style=Secondary, State=Disabled"
+    },
+    {
+      "id": "3:116",
+      "name": "Theme=Dark, Style=Primary, State=Default"
+    },
+    {
+      "id": "3:117",
+      "name": "Theme=Dark, Style=Primary, State=Hover"
+    },
+    {
+      "id": "3:118",
+      "name": "Theme=Dark, Style=Primary, State=Disabled"
+    },
+    {
+      "id": "3:119",
+      "name": "Theme=Dark, Style=Secondary, State=Default"
+    },
+    {
+      "id": "3:120",
+      "name": "Theme=Dark, Style=Secondary, State=Hover"
+    },
+    {
+      "id": "3:121",
+      "name": "Theme=Dark, Style=Secondary, State=Disabled"
+    }
+  ],
+  "primitiveIds": [
+    "VariableID:3:68",
+    "VariableID:3:70",
+    "VariableID:3:71",
+    "VariableID:3:67",
+    "VariableID:3:69",
+    "VariableID:3:72",
+    "VariableID:3:73",
+    "VariableID:3:74",
+    "VariableID:3:75",
+    "VariableID:3:76",
+    "VariableID:3:77"
+  ]
+}
